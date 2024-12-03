@@ -13,5 +13,4 @@
 
 #
 
-> [!caution]
-> Projetos pessoais porém autorais, clonar somente para estudo, sujeito a medidas cabíveis caso houver plágio para monetização.
+
