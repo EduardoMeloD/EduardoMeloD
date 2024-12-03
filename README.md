@@ -1,6 +1,6 @@
-# Oi pessoal, bem vindos ao meu repositório
+# Oi pessoal, bem vindos ao meu perfil
 
-### Estudo HTML, CSS, JAVA e JavaScript. Aqui encontrarão meus projetos da pessoais e da faculdade.
+### Estudo HTML, CSS, JAVA e JavaScript. Aqui encontrarão meus projetos pessoais e da faculdade.
 #
 ### Ferramentas:
 
